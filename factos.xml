@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Factos SYSTEM "factos.dtd">
+<Factos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="factos.xsd">
+     <Pais ISO="PRT">
+          <CodigoT>+351</CodigoT>
+          <CodigoI>.pt</CodigoI>
+          <Capital>Lisboa</Capital>
+          <Cidade_Max_Populacao>Lisboa</Cidade_Max_Populacao>
+          <Nome_Hino>A Portuguesa</Nome_Hino>
+          <Moeda>Euro</Moeda>
+          <Populacao>10291196</Populacao>
+          <Area>92090</Area>
+          <Idiomas>
+               <Idioma>Português</Idioma>
+               <Idioma>Mirandês</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="CUB">
+          <CodigoT>+53</CodigoT>
+          <CodigoI>.cu</CodigoI>
+          <Capital>Havana</Capital>
+          <Cidade_Max_Populacao>Havana</Cidade_Max_Populacao>
+          <Nome_Hino>La Bayamesa</Nome_Hino>
+          <Moeda>Peso cubano</Moeda>
+          <Populacao>11489082</Populacao>
+          <Area>109886</Area>
+          <Idiomas>
+               <Idioma>espanhol</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="AGO">
+          <CodigoT>+244</CodigoT>
+          <CodigoI>.ao</CodigoI>
+          <Capital>Luanda</Capital>
+          <Cidade_Max_Populacao>Luanda</Cidade_Max_Populacao>
+          <Nome_Hino>Angola Avante!</Nome_Hino>
+          <Moeda>Kwanza angolano</Moeda>
+          <Populacao>30774205</Populacao>
+          <Area>1246700</Area>
+          <Idiomas>
+               <Idioma>Português</Idioma>
+               <Idioma>Quicongo</Idioma>
+               <Idioma>Umbundu</Idioma>
+               <Idioma>Quimbundo</Idioma>
+               <Idioma>Nganguela</Idioma>
+               <Idioma>Cuanhama</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="AUS">
+          <CodigoT>+61</CodigoT>
+          <CodigoI>.au</CodigoI>
+          <Capital>Camberra</Capital>
+          <Cidade_Max_Populacao>Sydney</Cidade_Max_Populacao>
+          <Nome_Hino>Advance Australia Fair</Nome_Hino>
+          <Moeda>Dólar australiano</Moeda>
+          <Populacao>24772247</Populacao>
+          <Area>7692060</Area>
+          <Idiomas>
+               <Idioma>Inglês</Idioma>
+               <Idioma>de facto</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="AUT">
+          <CodigoT>+43</CodigoT>
+          <CodigoI>.at</CodigoI>
+          <Capital>Viena</Capital>
+          <Cidade_Max_Populacao>Viena</Cidade_Max_Populacao>
+          <Nome_Hino />
+          <Moeda>Euro</Moeda>
+          <Populacao>8751820</Populacao>
+          <Area>83871</Area>
+          <Idiomas>
+               <Idioma>Alemão</Idioma>
+               <Idioma>Esloveno</Idioma>
+               <Idioma>Croata</Idioma>
+               <Idioma>Húngaro</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="AZE">
+          <CodigoT>+994</CodigoT>
+          <CodigoI>.az</CodigoI>
+          <Capital>Baku</Capital>
+          <Cidade_Max_Populacao>Baku</Cidade_Max_Populacao>
+          <Nome_Hino />
+          <Moeda>Manat azerbaijano</Moeda>
+          <Populacao>9923914</Populacao>
+          <Area>86600</Area>
+          <Idiomas>
+               <Idioma>Azerbaijano</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="BEL">
+          <CodigoT>+32</CodigoT>
+          <CodigoI>.be</CodigoI>
+          <Capital>Cidade de Bruxelas</Capital>
+          <Cidade_Max_Populacao>Organização das Nações Unidas</Cidade_Max_Populacao>
+          <Nome_Hino />
+          <Moeda>Euro</Moeda>
+          <Populacao>11498519</Populacao>
+          <Area>30528</Area>
+          <Idiomas>
+               <Idioma>Flamengo</Idioma>
+               <Idioma>francês</Idioma>
+               <Idioma>alemão</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="BOL">
+          <CodigoT>+591</CodigoT>
+          <CodigoI>.bo</CodigoI>
+          <Capital>La Paz</Capital>
+          <Cidade_Max_Populacao>Santa Cruz de la Sierra</Cidade_Max_Populacao>
+          <Nome_Hino>Hino nacional da Bolívia</Nome_Hino>
+          <Moeda>Boliviano</Moeda>
+          <Populacao>11215674</Populacao>
+          <Area>1098580</Area>
+          <Idiomas>
+               <Idioma>Espanhol</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="BRA">
+          <CodigoT>+55</CodigoT>
+          <CodigoI>.br</CodigoI>
+          <Capital>Brasília</Capital>
+          <Cidade_Max_Populacao>São Paulo</Cidade_Max_Populacao>
+          <Nome_Hino>Hino Nacional Brasileiro</Nome_Hino>
+          <Moeda>Real</Moeda>
+          <Populacao>210867954</Populacao>
+          <Area>8514880</Area>
+          <Idiomas>
+               <Idioma>Português</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="CPV">
+          <CodigoT>+238</CodigoT>
+          <CodigoI>.cv</CodigoI>
+          <Capital>Praia</Capital>
+          <Cidade_Max_Populacao>Organização das Nações Unidas</Cidade_Max_Populacao>
+          <Nome_Hino>Hino nacional de Cabo Verde</Nome_Hino>
+          <Moeda>Escudo cabo-verdiano</Moeda>
+          <Populacao>553335</Populacao>
+          <Area>4033</Area>
+          <Idiomas>
+               <Idioma>Português</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="CHL">
+          <CodigoT>+56</CodigoT>
+          <CodigoI>.cl</CodigoI>
+          <Capital>Santiago</Capital>
+          <Cidade_Max_Populacao>CHL</Cidade_Max_Populacao>
+          <Nome_Hino>Hino Nacional do Chile</Nome_Hino>
+          <Moeda>Peso chileno</Moeda>
+          <Populacao>18197209</Populacao>
+          <Area>756102</Area>
+          <Idiomas>
+               <Idioma>Espanhol</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="CHN">
+          <CodigoT>+86</CodigoT>
+          <CodigoI>.cn</CodigoI>
+          <Capital>Pequim</Capital>
+          <Cidade_Max_Populacao>Xangai</Cidade_Max_Populacao>
+          <Nome_Hino>Marcha dos Voluntários</Nome_Hino>
+          <Moeda>Iuane chinês</Moeda>
+          <Populacao>1415045928</Populacao>
+          <Area>9598000</Area>
+          <Idiomas>
+               <Idioma>Mandarim padrão</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="CYP">
+          <CodigoT>+357</CodigoT>
+          <CodigoI>.cy</CodigoI>
+          <Capital>Nicósia</Capital>
+          <Cidade_Max_Populacao>Nicósia</Cidade_Max_Populacao>
+          <Nome_Hino>Hino nacional de Chipre</Nome_Hino>
+          <Moeda>Euro</Moeda>
+          <Populacao>1189085</Populacao>
+          <Area>9251</Area>
+          <Idiomas>
+               <Idioma>Grego</Idioma>
+               <Idioma>turco</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="COL">
+          <CodigoT>+57</CodigoT>
+          <CodigoI>.co</CodigoI>
+          <Capital>Bogotá</Capital>
+          <Cidade_Max_Populacao>Bogotá</Cidade_Max_Populacao>
+          <Nome_Hino>Himno Nacional de la República de Colombia</Nome_Hino>
+          <Moeda>Peso colombiano</Moeda>
+          <Populacao>49464683</Populacao>
+          <Area>1141750</Area>
+          <Idiomas>
+               <Idioma>Espanhol</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="DNK">
+          <CodigoT>+45</CodigoT>
+          <CodigoI>.dk</CodigoI>
+          <Capital>Copenhague</Capital>
+          <Cidade_Max_Populacao>Copenhaga</Cidade_Max_Populacao>
+          <Nome_Hino>Hino nacional da Dinamarca</Nome_Hino>
+          <Moeda>Coroa dinamarquesa</Moeda>
+          <Populacao>5754356</Populacao>
+          <Area>2210570</Area>
+          <Idiomas>
+               <Idioma>Dinamarquês</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="ECU">
+          <CodigoT>+593</CodigoT>
+          <CodigoI>.ec</CodigoI>
+          <Capital>Quito</Capital>
+          <Cidade_Max_Populacao>Quito</Cidade_Max_Populacao>
+          <Nome_Hino />
+          <Moeda>Dólar dos Estados Unidos</Moeda>
+          <Populacao>16863425</Populacao>
+          <Area>256369</Area>
+          <Idiomas>
+               <Idioma>Espanhol</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="EGY">
+          <CodigoT>+20</CodigoT>
+          <CodigoI>.eg</CodigoI>
+          <Capital>Cairo</Capital>
+          <Cidade_Max_Populacao>Cairo</Cidade_Max_Populacao>
+          <Nome_Hino />
+          <Moeda>Libra egípcia</Moeda>
+          <Populacao>99375741</Populacao>
+          <Area>1002450</Area>
+          <Idiomas>
+               <Idioma>Árabe</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="SVK">
+          <CodigoT>+421</CodigoT>
+          <CodigoI>.sk</CodigoI>
+          <Capital>Bratislava</Capital>
+          <Cidade_Max_Populacao>Bratislava</Cidade_Max_Populacao>
+          <Nome_Hino>Hino nacional da Eslováquia</Nome_Hino>
+          <Moeda>Euro</Moeda>
+          <Populacao>5449816</Populacao>
+          <Area>49037</Area>
+          <Idiomas>
+               <Idioma>Eslovaco</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="FRA">
+          <CodigoT>+33</CodigoT>
+          <CodigoI>.fr</CodigoI>
+          <Capital>Paris</Capital>
+          <Cidade_Max_Populacao>Paris</Cidade_Max_Populacao>
+          <Nome_Hino>La Marseillaise</Nome_Hino>
+          <Moeda>Euro</Moeda>
+          <Populacao>65233271</Populacao>
+          <Area>640597</Area>
+          <Idiomas>
+               <Idioma>Francês</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="HUN">
+          <CodigoT>+36</CodigoT>
+          <CodigoI>.hu</CodigoI>
+          <Capital>Budapeste</Capital>
+          <Cidade_Max_Populacao>Budapeste</Cidade_Max_Populacao>
+          <Nome_Hino />
+          <Moeda>Florim húngaro</Moeda>
+          <Populacao>9688847</Populacao>
+          <Area>93028</Area>
+          <Idiomas>
+               <Idioma>Húngaro</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="IND">
+          <CodigoT>+91</CodigoT>
+          <CodigoI>.in</CodigoI>
+          <Capital>Nova Deli</Capital>
+          <Cidade_Max_Populacao>Bombaim</Cidade_Max_Populacao>
+          <Nome_Hino>Jana Gana Mana</Nome_Hino>
+          <Moeda>Rupia indiana</Moeda>
+          <Populacao>1354051854</Populacao>
+          <Area>3287260</Area>
+          <Idiomas>
+               <Idioma>Hindi</Idioma>
+               <Idioma>inglês</Idioma>
+               <Idioma>21 línguas nacionais</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="IRQ">
+          <CodigoT>+964</CodigoT>
+          <CodigoI>.iq</CodigoI>
+          <Capital>Bagdá</Capital>
+          <Cidade_Max_Populacao>Bagdá</Cidade_Max_Populacao>
+          <Nome_Hino>Mawtini</Nome_Hino>
+          <Moeda>Dinar iraquiano</Moeda>
+          <Populacao>39339753</Populacao>
+          <Area>435244</Area>
+          <Idiomas>
+               <Idioma>Árabe</Idioma>
+               <Idioma>Curdo</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="ITA">
+          <CodigoT>+39</CodigoT>
+          <CodigoI>.it</CodigoI>
+          <Capital>Roma</Capital>
+          <Cidade_Max_Populacao>Roma</Cidade_Max_Populacao>
+          <Nome_Hino>Hino nacional da Itália</Nome_Hino>
+          <Moeda>Euro</Moeda>
+          <Populacao>59290969</Populacao>
+          <Area>301336</Area>
+          <Idiomas>
+               <Idioma>Italiano</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="JPN">
+          <CodigoT>+81</CodigoT>
+          <CodigoI>.jp</CodigoI>
+          <Capital>Tóquio</Capital>
+          <Cidade_Max_Populacao>Tóquio</Cidade_Max_Populacao>
+          <Nome_Hino>Kimi ga Yo</Nome_Hino>
+          <Moeda>Iene japonês</Moeda>
+          <Populacao>127185332</Populacao>
+          <Area>377930</Area>
+          <Idiomas>
+               <Idioma>Japonês</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="LUX">
+          <CodigoT>+352</CodigoT>
+          <CodigoI>.lu</CodigoI>
+          <Capital>Luxemburgo</Capital>
+          <Cidade_Max_Populacao>Luxemburgo</Cidade_Max_Populacao>
+          <Nome_Hino>Ons Hémécht</Nome_Hino>
+          <Moeda>Euro</Moeda>
+          <Populacao>590321</Populacao>
+          <Area>2586</Area>
+          <Idiomas>
+               <Idioma>luxemburguês</Idioma>
+               <Idioma>francês</Idioma>
+               <Idioma>alemão</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="MAR">
+          <CodigoT>+212</CodigoT>
+          <CodigoI>.ma</CodigoI>
+          <Capital>Rabate</Capital>
+          <Cidade_Max_Populacao>Casablanca</Cidade_Max_Populacao>
+          <Nome_Hino>Hymne Chérifien</Nome_Hino>
+          <Moeda>Dirame marroquino</Moeda>
+          <Populacao>36191805</Populacao>
+          <Area>446550</Area>
+          <Idiomas>
+               <Idioma>Árabe</Idioma>
+               <Idioma>Berbere</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="MEX">
+          <CodigoT>+52</CodigoT>
+          <CodigoI>.mx</CodigoI>
+          <Capital>Cidade do México</Capital>
+          <Cidade_Max_Populacao>Cidade do México</Cidade_Max_Populacao>
+          <Nome_Hino>Hino nacional do México</Nome_Hino>
+          <Moeda>Peso mexicano</Moeda>
+          <Populacao>130759074</Populacao>
+          <Area>1964380</Area>
+          <Idiomas>
+               <Idioma>Espanhol</Idioma>
+               <Idioma>67 línguas indígenas</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="ESP">
+          <CodigoT>+34</CodigoT>
+          <CodigoI>.es</CodigoI>
+          <Capital>Madrid</Capital>
+          <Cidade_Max_Populacao>Madrid</Cidade_Max_Populacao>
+          <Nome_Hino>Marcha Real</Nome_Hino>
+          <Moeda>Euro</Moeda>
+          <Populacao>46397452</Populacao>
+          <Area>505992</Area>
+          <Idiomas>
+               <Idioma>Espanhol</Idioma>
+               <Idioma>Catalão</Idioma>
+               <Idioma>Valenciano</Idioma>
+               <Idioma>Galego</Idioma>
+               <Idioma>Basco</Idioma>
+               <Idioma>Aranês</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="PRK">
+          <CodigoT>+850</CodigoT>
+          <CodigoI>.kp</CodigoI>
+          <Capital>Pyongyang</Capital>
+          <Cidade_Max_Populacao>Pyongyang</Cidade_Max_Populacao>
+          <Nome_Hino />
+          <Moeda>Won norte-coreano</Moeda>
+          <Populacao>25610672</Populacao>
+          <Area>120538</Area>
+          <Idiomas>
+               <Idioma>Coreano</Idioma>
+          </Idiomas>
+     </Pais>
+     <Pais ISO="KOR">
+          <CodigoT>+82</CodigoT>
+          <CodigoI>.kr</CodigoI>
+          <Capital>Seul</Capital>
+          <Cidade_Max_Populacao>Seul</Cidade_Max_Populacao>
+          <Nome_Hino>Aegukga</Nome_Hino>
+          <Moeda>Won sul-coreano</Moeda>
+          <Populacao>51164435</Populacao>
+          <Area>99828</Area>
+          <Idiomas>
+               <Idioma>Coreano</Idioma>
+          </Idiomas>
+     </Pais>
+</Factos>

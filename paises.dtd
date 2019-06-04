@@ -1,0 +1,20 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Paises (Pais)+>
+
+<!ELEMENT Pais (Nome,Continente,Nome_Presidente,Link_da_Bandeira)>
+<!ATTLIST Pais ISO ID #REQUIRED>
+
+<!ELEMENT Nome (#PCDATA)>
+
+<!ELEMENT Continente (#PCDATA)>
+
+<!ELEMENT Nome_Presidente (#PCDATA)>
+
+<!ELEMENT Link_da_Bandeira (#PCDATA)>
+
+<!ATTLIST Paises
+ xmlns:xsi CDATA #IMPLIED>
+
+<!ATTLIST Paises 
+ xsi:noNamespaceSchemaLocation CDATA #IMPLIED>

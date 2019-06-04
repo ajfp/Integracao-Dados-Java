@@ -1,0 +1,33 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Factos (Pais)+>
+
+<!ELEMENT Pais (CodigoT,CodigoI,Capital,Cidade_Max_Populacao,Nome_Hino,
+                Moeda,Populacao,Area,Idiomas)>
+<!ATTLIST Pais ISO ID #REQUIRED>
+
+<!ELEMENT CodigoT (#PCDATA)>
+
+<!ELEMENT CodigoI (#PCDATA)>
+
+<!ELEMENT Capital (#PCDATA)>
+
+<!ELEMENT Cidade_Max_Populacao (#PCDATA)>
+
+<!ELEMENT Nome_Hino (#PCDATA)>
+
+<!ELEMENT Moeda (#PCDATA)>
+
+<!ELEMENT Populacao (#PCDATA)>
+
+<!ELEMENT Area (#PCDATA)>
+
+<!ELEMENT Idiomas (Idioma)+>
+
+<!ELEMENT Idioma (#PCDATA)>
+
+<!ATTLIST Factos
+ xmlns:xsi CDATA #IMPLIED>
+
+<!ATTLIST Factos
+ xsi:noNamespaceSchemaLocation CDATA #IMPLIED>

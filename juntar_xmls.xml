@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resultados>
+   <Pais ISO="PRT">
+      <Nome>Portugal</Nome>
+      <Capital>Lisboa</Capital>
+      <Continente>Europa</Continente>
+      <Moeda>Euro</Moeda>
+      <Populacao>10291196</Populacao>
+      <Idiomas>
+         <Idioma>Português</Idioma>
+         <Idioma>Mirandês</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="CUB">
+      <Nome>Cuba</Nome>
+      <Capital>Havana</Capital>
+      <Continente>América</Continente>
+      <Moeda>Peso cubano</Moeda>
+      <Populacao>11489082</Populacao>
+      <Idiomas>
+         <Idioma>espanhol</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="AGO">
+      <Nome>Angola</Nome>
+      <Capital>Luanda</Capital>
+      <Continente>África</Continente>
+      <Moeda>Kwanza angolano</Moeda>
+      <Populacao>30774205</Populacao>
+      <Idiomas>
+         <Idioma>Português</Idioma>
+         <Idioma>Quicongo</Idioma>
+         <Idioma>Umbundu</Idioma>
+         <Idioma>Quimbundo</Idioma>
+         <Idioma>Nganguela</Idioma>
+         <Idioma>Cuanhama</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="AUS">
+      <Nome>Austrália</Nome>
+      <Capital>Camberra</Capital>
+      <Continente>Oceania</Continente>
+      <Moeda>Dólar australiano</Moeda>
+      <Populacao>24772247</Populacao>
+      <Idiomas>
+         <Idioma>Inglês</Idioma>
+         <Idioma>de facto</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="AUT">
+      <Nome>Áustria</Nome>
+      <Capital>Viena</Capital>
+      <Continente>Europa</Continente>
+      <Moeda>Euro</Moeda>
+      <Populacao>8751820</Populacao>
+      <Idiomas>
+         <Idioma>Alemão</Idioma>
+         <Idioma>Esloveno</Idioma>
+         <Idioma>Croata</Idioma>
+         <Idioma>Húngaro</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="AZE">
+      <Nome>Azerbaijão</Nome>
+      <Capital>Baku</Capital>
+      <Continente>Ásia</Continente>
+      <Moeda>Manat azerbaijano</Moeda>
+      <Populacao>9923914</Populacao>
+      <Idiomas>
+         <Idioma>Azerbaijano</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="BEL">
+      <Nome>Bélgica</Nome>
+      <Capital>Cidade de Bruxelas</Capital>
+      <Continente>Europa</Continente>
+      <Moeda>Euro</Moeda>
+      <Populacao>11498519</Populacao>
+      <Idiomas>
+         <Idioma>Flamengo</Idioma>
+         <Idioma>francês</Idioma>
+         <Idioma>alemão</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="BOL">
+      <Nome>Bolívia</Nome>
+      <Capital>La Paz</Capital>
+      <Continente>América</Continente>
+      <Moeda>Boliviano</Moeda>
+      <Populacao>11215674</Populacao>
+      <Idiomas>
+         <Idioma>Espanhol</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="BRA">
+      <Nome>Brasil</Nome>
+      <Capital>Brasília</Capital>
+      <Continente>América</Continente>
+      <Moeda>Real</Moeda>
+      <Populacao>210867954</Populacao>
+      <Idiomas>
+         <Idioma>Português</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="CPV">
+      <Nome>Cabo Verde</Nome>
+      <Capital>Praia</Capital>
+      <Continente>África</Continente>
+      <Moeda>Escudo cabo-verdiano</Moeda>
+      <Populacao>553335</Populacao>
+      <Idiomas>
+         <Idioma>Português</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="CHL">
+      <Nome>Chile</Nome>
+      <Capital>Santiago</Capital>
+      <Continente>América</Continente>
+      <Moeda>Peso chileno</Moeda>
+      <Populacao>18197209</Populacao>
+      <Idiomas>
+         <Idioma>Espanhol</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="CHN">
+      <Nome>China</Nome>
+      <Capital>Pequim</Capital>
+      <Continente>Ásia</Continente>
+      <Moeda>Iuane chinês</Moeda>
+      <Populacao>1415045928</Populacao>
+      <Idiomas>
+         <Idioma>Mandarim padrão</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="CYP">
+      <Nome>Chipre</Nome>
+      <Capital>Nicósia</Capital>
+      <Continente>Europa</Continente>
+      <Moeda>Euro</Moeda>
+      <Populacao>1189085</Populacao>
+      <Idiomas>
+         <Idioma>Grego</Idioma>
+         <Idioma>turco</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="COL">
+      <Nome>Colômbia</Nome>
+      <Capital>Bogotá</Capital>
+      <Continente>América</Continente>
+      <Moeda>Peso colombiano</Moeda>
+      <Populacao>49464683</Populacao>
+      <Idiomas>
+         <Idioma>Espanhol</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="DNK">
+      <Nome>Dinamarca</Nome>
+      <Capital>Copenhague</Capital>
+      <Continente>Europa</Continente>
+      <Moeda>Coroa dinamarquesa</Moeda>
+      <Populacao>5754356</Populacao>
+      <Idiomas>
+         <Idioma>Dinamarquês</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="ECU">
+      <Nome>Equador</Nome>
+      <Capital>Quito</Capital>
+      <Continente>América</Continente>
+      <Moeda>Dólar dos Estados Unidos</Moeda>
+      <Populacao>16863425</Populacao>
+      <Idiomas>
+         <Idioma>Espanhol</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="EGY">
+      <Nome>Egito</Nome>
+      <Capital>Cairo</Capital>
+      <Continente>África</Continente>
+      <Moeda>Libra egípcia</Moeda>
+      <Populacao>99375741</Populacao>
+      <Idiomas>
+         <Idioma>Árabe</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="SVK">
+      <Nome>Eslováquia</Nome>
+      <Capital>Bratislava</Capital>
+      <Continente>Europa</Continente>
+      <Moeda>Euro</Moeda>
+      <Populacao>5449816</Populacao>
+      <Idiomas>
+         <Idioma>Eslovaco</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="FRA">
+      <Nome>França</Nome>
+      <Capital>Paris</Capital>
+      <Continente>Europa</Continente>
+      <Moeda>Euro</Moeda>
+      <Populacao>65233271</Populacao>
+      <Idiomas>
+         <Idioma>Francês</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="HUN">
+      <Nome>Hungria</Nome>
+      <Capital>Budapeste</Capital>
+      <Continente>Europa</Continente>
+      <Moeda>Florim húngaro</Moeda>
+      <Populacao>9688847</Populacao>
+      <Idiomas>
+         <Idioma>Húngaro</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="IND">
+      <Nome>Índia</Nome>
+      <Capital>Nova Deli</Capital>
+      <Continente>Ásia</Continente>
+      <Moeda>Rupia indiana</Moeda>
+      <Populacao>1354051854</Populacao>
+      <Idiomas>
+         <Idioma>Hindi</Idioma>
+         <Idioma>inglês</Idioma>
+         <Idioma>21 línguas nacionais</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="IRQ">
+      <Nome>Iraque</Nome>
+      <Capital>Bagdá</Capital>
+      <Continente>Ásia</Continente>
+      <Moeda>Dinar iraquiano</Moeda>
+      <Populacao>39339753</Populacao>
+      <Idiomas>
+         <Idioma>Árabe</Idioma>
+         <Idioma>Curdo</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="ITA">
+      <Nome>Itália</Nome>
+      <Capital>Roma</Capital>
+      <Continente>Europa</Continente>
+      <Moeda>Euro</Moeda>
+      <Populacao>59290969</Populacao>
+      <Idiomas>
+         <Idioma>Italiano</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="JPN">
+      <Nome>Japão</Nome>
+      <Capital>Tóquio</Capital>
+      <Continente>Ásia</Continente>
+      <Moeda>Iene japonês</Moeda>
+      <Populacao>127185332</Populacao>
+      <Idiomas>
+         <Idioma>Japonês</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="LUX">
+      <Nome>Luxemburgo</Nome>
+      <Capital>Luxemburgo</Capital>
+      <Continente>Europa</Continente>
+      <Moeda>Euro</Moeda>
+      <Populacao>590321</Populacao>
+      <Idiomas>
+         <Idioma>luxemburguês</Idioma>
+         <Idioma>francês</Idioma>
+         <Idioma>alemão</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="MAR">
+      <Nome>Marrocos</Nome>
+      <Capital>Rabate</Capital>
+      <Continente>África</Continente>
+      <Moeda>Dirame marroquino</Moeda>
+      <Populacao>36191805</Populacao>
+      <Idiomas>
+         <Idioma>Árabe</Idioma>
+         <Idioma>Berbere</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="MEX">
+      <Nome>México</Nome>
+      <Capital>Cidade do México</Capital>
+      <Continente>América</Continente>
+      <Moeda>Peso mexicano</Moeda>
+      <Populacao>130759074</Populacao>
+      <Idiomas>
+         <Idioma>Espanhol</Idioma>
+         <Idioma>67 línguas indígenas</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="ESP">
+      <Nome>Espanha</Nome>
+      <Capital>Madrid</Capital>
+      <Continente>Europa</Continente>
+      <Moeda>Euro</Moeda>
+      <Populacao>46397452</Populacao>
+      <Idiomas>
+         <Idioma>Espanhol</Idioma>
+         <Idioma>Catalão</Idioma>
+         <Idioma>Valenciano</Idioma>
+         <Idioma>Galego</Idioma>
+         <Idioma>Basco</Idioma>
+         <Idioma>Aranês</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="PRK">
+      <Nome>Coreia do Norte</Nome>
+      <Capital>Pyongyang</Capital>
+      <Continente>Ásia</Continente>
+      <Moeda>Won norte-coreano</Moeda>
+      <Populacao>25610672</Populacao>
+      <Idiomas>
+         <Idioma>Coreano</Idioma>
+      </Idiomas>
+   </Pais>
+   <Pais ISO="KOR">
+      <Nome>Coreia do Sul</Nome>
+      <Capital>Seul</Capital>
+      <Continente>Ásia</Continente>
+      <Moeda>Won sul-coreano</Moeda>
+      <Populacao>51164435</Populacao>
+      <Idiomas>
+         <Idioma>Coreano</Idioma>
+      </Idiomas>
+   </Pais>
+</resultados>

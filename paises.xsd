@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="Paises">
+    <xsd:complexType mixed="true">
+      <xsd:sequence>
+        <xsd:element maxOccurs="unbounded" name="Pais">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="Nome" type="xsd:string" />
+              <xsd:element name="Continente" type="xsd:string" />
+              <xsd:element name="Nome_Presidente" type="xsd:string" />
+              <xsd:element name="Link_da_Bandeira" type="xsd:string" />
+            </xsd:sequence>
+            <xsd:attribute name="ISO" type="xsd:string" use="required" />
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>

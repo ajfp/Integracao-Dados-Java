@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="Factos">
+    <xsd:complexType mixed="true">
+      <xsd:sequence>
+        <xsd:element maxOccurs="unbounded" name="Pais">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="CodigoT" type="xsd:short" />
+              <xsd:element name="CodigoI" type="xsd:string" />
+              <xsd:element name="Capital" type="xsd:string" />
+              <xsd:element name="Cidade_Max_Populacao" type="xsd:string" />
+              <xsd:element name="Nome_Hino" type="xsd:string" />
+              <xsd:element name="Moeda" type="xsd:string" />
+              <xsd:element name="Populacao" type="xsd:unsignedInt" />
+              <xsd:element name="Area" type="xsd:unsignedInt" />
+              <xsd:element name="Idiomas">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element maxOccurs="unbounded" name="Idioma" type="xsd:string" />
+                  </xsd:sequence>
+                </xsd:complexType>
+              </xsd:element>
+            </xsd:sequence>
+            <xsd:attribute name="ISO" type="xsd:string" use="required" />
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>

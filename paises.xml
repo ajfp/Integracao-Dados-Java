@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Paises SYSTEM "paises.dtd">
+<Paises xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="paises.xsd">
+     <Pais ISO="PRT">
+          <Nome>Portugal</Nome>
+          <Continente>Europa</Continente>
+          <Nome_Presidente>Marcelo Rebelo de Sousa</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/125px-Flag_of_Portugal.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="CUB">
+          <Nome>Cuba</Nome>
+          <Continente>América</Continente>
+          <Nome_Presidente>Miguel Díaz-Canel</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag-map_of_Cuba.svg/50px-Flag-map_of_Cuba.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="AGO">
+          <Nome>Angola</Nome>
+          <Continente>África</Continente>
+          <Nome_Presidente>João Lourenço</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/125px-Flag_of_Angola.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="AUS">
+          <Nome>Austrália</Nome>
+          <Continente>Oceania</Continente>
+          <Nome_Presidente>Nao e uma republica, logo nao tem presidente da Republica</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flag_of_Australia_%28converted%29.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="AUT">
+          <Nome>Áustria</Nome>
+          <Continente>Europa</Continente>
+          <Nome_Presidente>Alexander van der Bellen</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/125px-Flag_of_Austria.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="AZE">
+          <Nome>Azerbaijão</Nome>
+          <Continente>Ásia</Continente>
+          <Nome_Presidente>Ilham Aliyev</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/125px-Flag_of_Azerbaijan.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="BEL">
+          <Nome>Bélgica</Nome>
+          <Continente>Europa</Continente>
+          <Nome_Presidente>Nao e uma republica, logo nao tem presidente da Republica</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/125px-Flag_of_Belgium.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="BOL">
+          <Nome>Bolívia</Nome>
+          <Continente>América</Continente>
+          <Nome_Presidente>Evo Morales</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/125px-Flag_of_Bolivia_%28state%29.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="BRA">
+          <Nome>Brasil</Nome>
+          <Continente>América</Continente>
+          <Nome_Presidente>Jair Bolsonaro</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="CPV">
+          <Nome>Cabo Verde</Nome>
+          <Continente>África</Continente>
+          <Nome_Presidente>Jorge Carlos Fonseca</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/125px-Flag_of_Cape_Verde.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="CHL">
+          <Nome>Chile</Nome>
+          <Continente>América</Continente>
+          <Nome_Presidente>Sebastián Piñera</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/125px-Flag_of_Chile.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="CHN">
+          <Nome>China</Nome>
+          <Continente>Ásia</Continente>
+          <Nome_Presidente>Xi Jinping</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/125px-Flag_of_the_People%27s_Republic_of_China.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="CYP">
+          <Nome>Chipre</Nome>
+          <Continente>Europa</Continente>
+          <Nome_Presidente>Nicos Anastasiades</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/125px-Flag_of_Cyprus.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="COL">
+          <Nome>Colômbia</Nome>
+          <Continente>América</Continente>
+          <Nome_Presidente>Iván Duque</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/125px-Flag_of_Colombia.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="DNK">
+          <Nome>Dinamarca</Nome>
+          <Continente>Europa</Continente>
+          <Nome_Presidente>Nao e uma republica, logo nao tem presidente da Republica</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/125px-Flag_of_Denmark.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="ECU">
+          <Nome>Equador</Nome>
+          <Continente>América</Continente>
+          <Nome_Presidente>Lenín Moreno</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/125px-Flag_of_Ecuador.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="EGY">
+          <Nome>Egito</Nome>
+          <Continente>África</Continente>
+          <Nome_Presidente>Abdul Fatah Khalil Al-Sisi</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/125px-Flag_of_Egypt.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="SVK">
+          <Nome>Eslováquia</Nome>
+          <Continente>Europa</Continente>
+          <Nome_Presidente>Andrej Kiska</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/125px-Flag_of_Slovakia.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="FRA">
+          <Nome>França</Nome>
+          <Continente>Europa</Continente>
+          <Nome_Presidente>Emmanuel Macron</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/125px-Flag_of_France.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="HUN">
+          <Nome>Hungria</Nome>
+          <Continente>Europa</Continente>
+          <Nome_Presidente>János Áder</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/125px-Flag_of_Hungary.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="IND">
+          <Nome>Índia</Nome>
+          <Continente>Ásia</Continente>
+          <Nome_Presidente>Ram Nath Kovind</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="IRQ">
+          <Nome>Iraque</Nome>
+          <Continente>Ásia</Continente>
+          <Nome_Presidente>Barham Salih</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/125px-Flag_of_Iraq.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="ITA">
+          <Nome>Itália</Nome>
+          <Continente>Europa</Continente>
+          <Nome_Presidente>Sergio Mattarella</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/125px-Flag_of_Italy.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="JPN">
+          <Nome>Japão</Nome>
+          <Continente>Ásia</Continente>
+          <Nome_Presidente>Nao e uma republica, logo nao tem presidente da Republica</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="LUX">
+          <Nome>Luxemburgo</Nome>
+          <Continente>Europa</Continente>
+          <Nome_Presidente>Nao e uma republica, logo nao tem presidente da Republica</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/125px-Flag_of_Luxembourg.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="MAR">
+          <Nome>Marrocos</Nome>
+          <Continente>África</Continente>
+          <Nome_Presidente>Nao e uma republica, logo nao tem presidente da Republica</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/125px-Flag_of_Morocco.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="MEX">
+          <Nome>México</Nome>
+          <Continente>América</Continente>
+          <Nome_Presidente>Andrés Manuel López Obrador</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="ESP">
+          <Nome>Espanha</Nome>
+          <Continente>Europa</Continente>
+          <Nome_Presidente>Nao e uma republica, logo nao tem presidente da Republica</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/125px-Flag_of_Spain.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="PRK">
+          <Nome>Coreia do Norte</Nome>
+          <Continente>Ásia</Continente>
+          <Nome_Presidente>Nao e uma republica, logo nao tem presidente da Republica</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/125px-Flag_of_North_Korea.svg.png</Link_da_Bandeira>
+     </Pais>
+     <Pais ISO="KOR">
+          <Nome>Coreia do Sul</Nome>
+          <Continente>Ásia</Continente>
+          <Nome_Presidente>Moon Jae-in</Nome_Presidente>
+          <Link_da_Bandeira>http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/125px-Flag_of_South_Korea.svg.png</Link_da_Bandeira>
+     </Pais>
+</Paises>
